@@ -2,6 +2,8 @@
 
 A construção desse projeto surgiu da necessidade de entender melhor a evolução dos salários na área de Data Science ao longo dos anos. Meu objetivo é fornecer informações valiosas tanto para profissionais que já atuam na área quanto para aqueles que estão considerando ingressar nesse campo. <br>
 Meu foco não foi abordar quais áreas mais cresceram durantes os anos, mas sim abordar o maior **faturamento** entre as áreas e área com a maior quantidade de **vagas**.
+
+A fonte para essa análise veio do site **Ai-jobs.net**, um site de empregos especializado em áreas relacionadas à Inteligência Artificial (IA), Machine Learning, Big Data e Data Science
 <br>
 
 > A fim de estudos, dividi esse projetos em dois: análise com python e análise com powerBI
